@@ -4,4 +4,4 @@ if age <10:
 elif age >=10 and age < 20:
     print("youth")
 else :
-    print("adult")
+    print("어른")
