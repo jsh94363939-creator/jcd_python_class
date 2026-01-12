@@ -1,7 +1,0 @@
-n=7
-a=0
-for i in range(n,0,-1):
-    st = ""
-    for j in range(i):
-        st=st+" "
-    print(st + "#")

@@ -1,8 +1,0 @@
-n=5
-a=9
-for i in range(0,n,1):
-    st = ""
-    for j in range(i):
-        st=st+" "
-    print(st + "#"*a)
-    a+=-2
